@@ -1,4 +1,4 @@
-##Comparaison of the D of CPK3CA of 21.8.11 assay and CPK3FL of the 21.8.12 assay
+##MSD Col-0 CPK3
 #Required libraries
 library(ggplot2)
 library(ggpubr)
